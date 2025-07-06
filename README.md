@@ -8,7 +8,7 @@ Android разработчик
 
 * 🧠  I'm learning about Android app development
 * 🤝  I'm open to collaborating on full-time, part-time
-* 🖥️  Портфолио: [GitHub](http://https://github.com/AmXLoVE?tab=repositories)
+* 🖥️  Портфолио: [GitHub](https://github.com/AmXLoVE?tab=repositories)
 * 🌍  Россия, Казань
 * ✉️  Почта: [alakalimullin@gmail.com](mailto:alakalimullin@gmail.com)
 
